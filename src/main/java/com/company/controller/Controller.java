@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.company.dao.Repository1;
-import com.company.dto.DTO1;
-import com.company.entity.Entity1;
+import com.company.domain.respository.Repository1;
+import com.company.domain.dto.DTO1;
+import com.company.domain.entity.Entity1;
 
 
 @RestController

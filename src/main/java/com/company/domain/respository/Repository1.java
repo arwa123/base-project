@@ -1,9 +1,9 @@
-package com.company.dao;
+package com.company.domain.respository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.company.entity.Entity1;
+import com.company.domain.entity.Entity1;
 
 
 @Repository
